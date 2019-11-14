@@ -20,9 +20,9 @@ https://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
 #EXTINF: -1,TR: SHOW TURK
 https://blutv-beta.akamaized.net/showturk/showturk.smil/playlist.m3u8
 #EXTINF:-1,TR: ATV HD
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=zWQDhU_gC1iBPWvpAoasIw&e=1573707438&SessionID=1.2.1773255891.1573583237&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=NnOFunGO9VJm7HsvI-EOBg&e=1573784344&SessionID=1.2.1773255891.1573583237&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
 #EXTINF:-1,TR: ATV
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=zWQDhU_gC1iBPWvpAoasIw&e=1573707438&SessionID=1.2.1773255891.1573583237&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=NnOFunGO9VJm7HsvI-EOBg&e=1573784344&SessionID=1.2.1773255891.1573583237&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
 #EXTINF:-1,TR: TV 8 HD
 https://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b1096000_sltur.m3u8
 #EXTINF:-1,TR: TV8
@@ -40,9 +40,9 @@ https://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m
 #EXTINF:-1,TR: FOX TV
 https://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:-1,TR: TRT 1 HD
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8?sd=10&rebase=on
+https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=N_k-D9wRi1cnBZoHJDTpTA&e=1573774877
 #EXTINF: -1,TR: TRT 1
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8?sd=10&rebase=on
+https://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/chunklist_b2596000_sltur.m3u8
 #EXTINF:-1,TR: A2 HD
 https://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:-1,TR: A2
@@ -86,11 +86,11 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
 #EXTINF:-1,TR: DMAX 
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,TR | ANIMAL PLANET HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3739
-#EXTINF:-1,TR | NAT GEO CHANNEL
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3735
+http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2659
+#EXTINF:-1,TR | NAT GEOGRAPHIC
+http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2720
 #EXTINF:-1,TR | NAT GEO WILD
-http://live.eurovipserver.com:1453/Halil/Akdogan/93
+http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2719
 #EXTINF:-1,TR | NAT GEO PEOPLE HD
 http://live.eurovipserver.com:1453/Halil/Akdogan/91662
 #EXTINF:-1,TR | DISCOVERY-SCIENSE HD
@@ -110,21 +110,19 @@ https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein
 #EXTINF:-1,TR: BEIN SPORTS 2
 https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein2sport.m3u8?token=YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=&id=Zjg1MTgyMDE5MTI4YTM0NjQ1NTA5N2IwZjgzOGExZTI=&vip=1573408038&dip=YWE3ZWIyNDc4NmY5MmNhNDUyMjY0NzRjOWYxZGI4OWU=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 3 HD
-https://mmm.sport7.biz/lba/ZDI4YjcwZGIyYmMwZWM4YjNmYjU0ZjVmZTgyZjU5YjQ=/g2/bein3turkey.m3u8?token=ZDI4YjcwZGIyYmMwZWM4YjNmYjU0ZjVmZTgyZjU5YjQ=&id=NDYzZTgyYWFmZDViNzcyNWE1ZWM1Y2VmMDE5YWZmNWU=&vip=1573393828&dip=MWZmZWQ5MzJkOTc0ZjE2Y2Y3OTI0ZDY0YzQwNTc1NTk=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
+https://ul.cdn946.net:8443/hls/tirns859n3mcx9.m3u8?s=IuxUEPmUjbNQC_R-I4m4zQ&e=1573716792
 #EXTINF:-1,TR: BEIN SPORTS 3
-https://mmm.sport7.biz/lba/ZDI4YjcwZGIyYmMwZWM4YjNmYjU0ZjVmZTgyZjU5YjQ=/g2/bein3turkey.m3u8?token=ZDI4YjcwZGIyYmMwZWM4YjNmYjU0ZjVmZTgyZjU5YjQ=&id=NDYzZTgyYWFmZDViNzcyNWE1ZWM1Y2VmMDE5YWZmNWU=&vip=1573393828&dip=MWZmZWQ5MzJkOTc0ZjE2Y2Y3OTI0ZDY0YzQwNTc1NTk=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
+https://ul.cdn946.net:8443/hls/tirns859n3mcx9.m3u8?s=IuxUEPmUjbNQC_R-I4m4zQ&e=1573716792
 #EXTINF:-1,TR: BEIN SPORTS 4 HD
-https://x.0000cfbnlxbnrspxcklr.xyz/dfq/604/chunks.m3u8
+https://ul.cdn946.net:8443/hls/y8m0vf5ao0x4f.m3u8?s=-zFQIqZ1EcBnHpYYTkJqyQ&e=1573716849
 #EXTINF:-1,TR: BEIN SPORTS 4
-https://x.0000cfbnlxbnrspxcklr.xyz/dfq/604/chunks.m3u8
+https://ul.cdn946.net:8443/hls/y8m0vf5ao0x4f.m3u8?s=-zFQIqZ1EcBnHpYYTkJqyQ&e=1573716849
 #EXTINF:-1,TR: BEIN SPORTS MAX 1 HD 
 http://live.eurovipserver.com:1453/erol/uslu/117663
 #EXTINF:-1,TR: BEIN SPORTS MAX 1 
-http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/23691
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/117662
+https://ul.cdn946.net:8443/hls/uedce5pnokzcs.m3u8?s=YT9cvrP0Hhk9kGITbmgxbQ&e=1573686711
 #EXTINF:-1,TR: BEIN SPORTS MAX 2 
-http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/23692
+https://ul.cdn946.net:8443/hls/utq1rwdw.m3u8?s=zHxKnLHaBy4MwWu5lymdHw&e=1573686754
 #EXTINF:-1,TR: BEIN SPORTS HABER HD
 http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/9106
 #EXTINF:-1,TR: BEIN SPORTS HABER 
@@ -146,9 +144,9 @@ http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/384
 #EXTINF:-1,TR: SMART SPOR 1
 http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/7486
 #EXTINF:-1,TR: S SPOR HD
-https://video.xx.fbcdn.net/hvideo-cln1-lla/_nc_cat-107/v/rQgRRmSTCO4a0mtXRHng0/live-dash/dash-abr5/449596912601773_0.mpd?_nc_rl=AfA8BuXUXz_tvyZr&lvp=1&oh=b2209e2673140f9913daa3adb03f8394&oe=5DCA45F4&_nc_nc=1x
+https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=1573716567
 #EXTINF:-1,TR: S SPOR
-https://video.xx.fbcdn.net/hvideo-cln1-lla/_nc_cat-107/v/rQgRRmSTCO4a0mtXRHng0/live-dash/dash-abr5/449596912601773_0.mpd?_nc_rl=AfA8BuXUXz_tvyZr&lvp=1&oh=b2209e2673140f9913daa3adb03f8394&oe=5DCA45F4&_nc_nc=1x
+https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=1573716567
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★DEUTSCHLAND★ █ ▇ ▆ ▅ ▄.
 http://live.eurovipserver.com:1453/Halil/Akdogan/118689
 #EXTINF:-1,DE: DAS ERSTE
@@ -217,3 +215,4 @@ http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2720
 http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1121
 #EXTINF:-1,DE: Animal Planet
 http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2659
+
