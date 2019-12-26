@@ -150,9 +150,9 @@ http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/384
 #EXTINF:-1,TR: SMART SPOR 1
 http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/7486
 #EXTINF:-1,TR: S SPOR HD
-https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=1573716567
+https://ul.cdn946.net:8443/hls/ig2vurj4tm.m3u8?s=A46bbpV5QI_CorDKpo-iRg&e=1577341834
 #EXTINF:-1,TR: S SPOR
-https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=1573716567
+https://ul.cdn946.net:8443/hls/ig2vurj4tm.m3u8?s=A46bbpV5QI_CorDKpo-iRg&e=1577341834
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★DEUTSCHLAND★ █ ▇ ▆ ▅ ▄.
 http://live.eurovipserver.com:1453/Halil/Akdogan/118689
 #EXTINF:-1,DE: DAS ERSTE
@@ -172,47 +172,47 @@ https://zdf-hls-02.akamaized.net/hls/live/2002461/de/3f34e1738d67703b67f7aa9c17b
 #EXTINF:-1,DE: ZDF NEO
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/3f34e1738d67703b67f7aa9c17bb0a46/5/5.m3u8
 #EXTINF:-1,DE: RTL HD
-https://wer2.wertvlive.com/hls/a1.m3u8
+https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: RTL
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/469.m3u8
+https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: PROSIEBEN HD
-https://wer1.wertvlive.com/f1/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/t1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PROSIEBEN 
-https://wer1.wertvlive.com/f1/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/t1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX HD
 https://wer11.wertvlive.com/f2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX
 https://wer11.wertvlive.com/f2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: RTL 2 HD
-https://wer22.wertvlive.com/hls/a2.m3u8
+https://wer22.wertvlive.com/hls/q2.m3u8
 #EXTINF:-1,DE: RTL 2
-https://wer22.wertvlive.com/hls/a2.m3u8
+https://wer22.wertvlive.com/hls/q2.m3u8
 #EXTINF:-1,DE: VOX HD
-https://wer222.wertvlive.com/hls/a3.m3u8
+https://wer222.wertvlive.com/hls/q3.m3u8
 #EXTINF:-1,DE: VOX
-https://wer222.wertvlive.com/hls/a3.m3u8
+https://wer222.wertvlive.com/hls/q3.m3u8
 #EXTINF:-1,DE: KABEL EINS HD
-https://wer1.wertvlive.com/f5/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL EINS 
-https://wer1.wertvlive.com/f5/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL 1 DOKU
 http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2709.m3u8
 #EXTINF:-1,DE: SAT 1 HD
-https://wer1.wertvlive.com/f6/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1
-https://wer1.wertvlive.com/f6/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: N24 HD
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DE: N24
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DE: N-TV HD
-https://wer222.wertvlive.com/hls/a6.m3u8
+https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: N-TV
-https://wer222.wertvlive.com/hls/a6.m3u8
+https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: DMAX HD
-https://wer1.wertvlive.com/f4/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: DMAX
-https://wer1.wertvlive.com/f4/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: Nat Geo Wild HD
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/543.m3u8
 #EXTINF:-1,DE: NAT GEOGRAPHIC
@@ -229,3 +229,4 @@ http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/708.m3u8
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/477.m3u8
 #EXTINF:-1,|DE| SKY CINEMA HD
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/745.m3u8
+
