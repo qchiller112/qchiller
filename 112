@@ -107,8 +107,6 @@ https://sportbox.ws/lba/M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=/g5/beinspor
 https://sportbox.ws/lba/M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=/g5/beinsport1tur.m3u8?token=M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=&id=NThhNmEzOThkODY1NjA3ZWNlMjg0ZTUwNTg5NGU2NTE=&vip=1575648404&dip=NTdiYTNiNGMzZTkzZWNhZTEzMWRiODk0OTUyZDVjNGU=&pip=109.91.34.126&hip=MjQwYTZmMmFkYjI2YzQwYTc4ZjI2MzY3MzQ2MDg0ZGU=
 #EXTINF:-1,TR: BEIN SPORTS 1 
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1,TR: BEIN SPORT 1
-https://ul.cdn946.net:8443/hls/ew2skag.m3u8?s=ithQx_C4zjt1vJ9x9FN8qQ&e=1574822580
 #EXTINF:-1,TR: BEIN SPORTS 2 HD
 https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein2sport.m3u8?token=YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=&id=Zjg1MTgyMDE5MTI4YTM0NjQ1NTA5N2IwZjgzOGExZTI=&vip=1573408038&dip=YWE3ZWIyNDc4NmY5MmNhNDUyMjY0NzRjOWYxZGI4OWU=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 2 SD
@@ -116,7 +114,7 @@ https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein
 #EXTINF:-1,TR: BEIN SPORTS 2
 https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein2sport.m3u8?token=YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=&id=Zjg1MTgyMDE5MTI4YTM0NjQ1NTA5N2IwZjgzOGExZTI=&vip=1573408038&dip=YWE3ZWIyNDc4NmY5MmNhNDUyMjY0NzRjOWYxZGI4OWU=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 3 HD
-https://ul.cdn946.net:8443/hls/tirns859n3mcx9.m3u8?s=IuxUEPmUjbNQC_R-I4m4zQ&e=1573716792
+https://mmm.sportbox.ws/lba/MzRkYjI1ZjlmNTJhY2YyMDIwOGE3NDg0NWJkMzIwZWM=/g2/bein3turkey.m3u8?token=MzRkYjI1ZjlmNTJhY2YyMDIwOGE3NDg0NWJkMzIwZWM=&id=NzUyODczMjZiYTU2OTU5YzEyZmRhZjQ2Y2U1ZTdiZTg=&vip=1577459987&dip=MjkwYzA2ZWViNTVjNGY2ZTcyYTNiOTZmODlmZTY3MGU=&pip=109.91.34.76&hip=NWM3NGM3OTU3YzQzNTVhZTg5MzE3NjE4YzcxODljZDQ=
 #EXTINF:-1,TR: BEIN SPORTS 3
 https://ul.cdn946.net:8443/hls/tirns859n3mcx9.m3u8?s=IuxUEPmUjbNQC_R-I4m4zQ&e=1573716792
 #EXTINF:-1,TR: BEIN SPORTS 4 HD
@@ -176,13 +174,13 @@ https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: RTL
 https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: PROSIEBEN HD
-https://wer1.wertvlive.com/t1/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PROSIEBEN 
-https://wer1.wertvlive.com/t1/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX HD
-https://wer11.wertvlive.com/f2/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX
-https://wer11.wertvlive.com/f2/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: RTL 2 HD
 https://wer22.wertvlive.com/hls/q2.m3u8
 #EXTINF:-1,DE: RTL 2
@@ -192,15 +190,15 @@ https://wer222.wertvlive.com/hls/q3.m3u8
 #EXTINF:-1,DE: VOX
 https://wer222.wertvlive.com/hls/q3.m3u8
 #EXTINF:-1,DE: KABEL EINS HD
-https://wer11.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL EINS 
-https://wer11.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL 1 DOKU
 http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2709.m3u8
 #EXTINF:-1,DE: SAT 1 HD
-https://wer11.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1
-https://wer11.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: N24 HD
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DE: N24
@@ -210,9 +208,9 @@ https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: N-TV
 https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: DMAX HD
-https://wer11.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: DMAX
-https://wer11.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: Nat Geo Wild HD
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/543.m3u8
 #EXTINF:-1,DE: NAT GEOGRAPHIC
