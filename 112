@@ -2,51 +2,51 @@
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★TÜRKIYE★ █ ▇ ▆ ▅ ▄.
 http://live.eurovipserver.com:1453/Halil/Akdogan/118689
 #EXTINF:-1,TR: STAR TV HD
-https://livestreamsorigin.rocketcdn.com/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
+https://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,TR: STAR TV SD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:0,TR: EURO STAR
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:0,TR: KANAL D HD
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b564000.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: KANAL D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b564000.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: EURO D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b564000.m3u8
+https://cdnlive.blutv.com/blutv_eurod/eurod_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:-1,TR: SHOW TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF: -1,TR: SHOW TURK
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+https://cdnlive.blutv.com/blutv_showturk/showturk_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: ATV HD
-https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1,TR: ATV
-https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/chunklist_b3128000.m3u8
+https://trkvz-live.ercdn.net/atvhd/atvhd_480p.m3u8?st=MvxzrtxSV1GHGZ8RB_wU4Q&e=1579843573&SessionID=kiv5egybvdsw1mctp00ydqjx&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
+#EXTINF:-1,TR: ATV Avrupa
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=RGFeV666sFIgQdj03DA5Dg&e=1579843619&SessionID=1.2.68284411.1579798411&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
 #EXTINF:-1,TR: TV 8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TR: TV8 INT
-https://blutv-beta.akamaized.net/tv8int/tv8int.smil/chunklist_b1596000_sltur.m3u8
+https://e-m1-006-v4.wpstr.tv/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJwdXAiLCJleHAiOjE1NzkxNDcyODAsImlhdCI6MTU3OTEyOTI4MCwidWgiOiIwNWRjMzE4MzdjZGQ5NzNhMzgxMjcxMjUwMWUyYWE5ZiIsImlwIjoiMTA5LjkxLjM0LjEyNSIsImFzIjoidHY4aW50LWwxLXYyLTUtMzdjNDBjLWI3MTE3MSIsInRpZCI6ImY0OTg2MTA2LTdjYTktNDQ1Yi1hZjM4LTU1Nzc5MDFjMDdhNyIsIm1iIjoiNTAwMDAwMDAifQ.Ur-4ydqZ9jh32VF0Zir7pVlEbGzQ-hxyo5HLgj9bMkM/tv8int-l1-v2-5-37c40c-b71171.mpd
 #EXTINF:0,TR: TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: BEYAZ TV
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: BEYAZ TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+https://cdnlive.blutv.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: FOX TV
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+https://cdnlive.blutv.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: TRT 1 HD
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b2064000.m3u8
 #EXTINF: -1,TR: TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,TR: A2 HD
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: A2
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: KANAL 7 HD
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TR: KANAL 7
@@ -60,9 +60,9 @@ https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 #EXTINF:-1,TR: TGRT HABER 
 https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 #EXTINF:-1,TR: NTV HD
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
+https://cdnlive.blutv.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: NTV 
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
+https://cdnlive.blutv.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TR: A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: A HABER
@@ -80,15 +80,19 @@ https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b3128000.
 #EXTINF:-1,TR: TRT COCUK
 https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: TRT BELGESEL HD
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b3128000.m3u8
+https://cdnlive.blutv.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: A SPOR HD
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd_480p.m3u8?st=ntOVhzNoAZu0axRMcdETcw&e=1579842432&SessionID=1.3.1934657419.1579797223&StreamGroup=canli-yayin&Site=aspor&DeviceGroup=web
 #EXTINF:0,TR: A Spor
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd_480p.m3u8?st=ntOVhzNoAZu0axRMcdETcw&e=1579842432&SessionID=1.3.1934657419.1579797223&StreamGroup=canli-yayin&Site=aspor&DeviceGroup=web
 #EXTINF:-1,TR: DMAX HD
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
 #EXTINF:-1,TR: DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,TR: Kon TV
+https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w1993895843.m3u8
+#EXTINF:-1,TR: TV Kayseri
+https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/chunklist_w524651520.m3u8?hash=16cc71ab4b4b8fa4636bae9166b3c894
 #EXTINF:-1,TR | ANIMAL PLANET HD
 http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2659
 #EXTINF:-1,TR | NAT GEOGRAPHIC
@@ -102,19 +106,21 @@ http://live.eurovipserver.com:1453/Halil/Akdogan/2153
 #EXTINF:-1,TR | DISCOVERY CHANNEL
 http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3734
 #EXTINF:-1,TR: BEIN SPORTS 1 HD
-https://sportbox.ws/lba/M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=/g5/beinsport1tur.m3u8?token=M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=&id=NThhNmEzOThkODY1NjA3ZWNlMjg0ZTUwNTg5NGU2NTE=&vip=1575652167&dip=M2QxZTJhMGRiZjBlZTI5MjJhZGY4N2FlNWJlM2NlMzc=&pip=109.91.34.126&hip=MjQwYTZmMmFkYjI2YzQwYTc4ZjI2MzY3MzQ2MDg0ZGU=
+https://cstream5.com/hls/beinsports1_tr_si.m3u8
 #EXTINF: -1,TR: BEIN SPORTS 1 SD
-https://sportbox.ws/lba/M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=/g5/beinsport1tur.m3u8?token=M2IzNWM1MmFmZTg0OGYzMDk1NzJjZGU1ZGZmMThmMDQ=&id=NThhNmEzOThkODY1NjA3ZWNlMjg0ZTUwNTg5NGU2NTE=&vip=1575648404&dip=NTdiYTNiNGMzZTkzZWNhZTEzMWRiODk0OTUyZDVjNGU=&pip=109.91.34.126&hip=MjQwYTZmMmFkYjI2YzQwYTc4ZjI2MzY3MzQ2MDg0ZGU=
+https://sportbox.ws/lba/ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=/g5/beinsport1tur.m3u8?token=ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=&id=NjBiYmE4MmM2ZTU2ZDc3MDFmMjBhZDRmNGEwYTQwNzM=&vip=1579787249&dip=Y2VmM2MzZDBkZjI3NTE3NjgyY2M5MmEzNmI1OGQyOGU=&pip=MDU3OTk5MzZmNzU1OGUxN2ZlYzE0NzAxZmVjOTZiYjU=&hip=Yjc2ZTM0OGMwMDA2YzQwNjI4ZTUxOGEzMTBmY2M2Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 1 
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF:-1,TR: BEIN SPORT 1
+https://ul.cdn946.net:8443/hls/ew2skag.m3u8?s=ithQx_C4zjt1vJ9x9FN8qQ&e=1574822580
 #EXTINF:-1,TR: BEIN SPORTS 2 HD
-https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein2sport.m3u8?token=YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=&id=Zjg1MTgyMDE5MTI4YTM0NjQ1NTA5N2IwZjgzOGExZTI=&vip=1573408038&dip=YWE3ZWIyNDc4NmY5MmNhNDUyMjY0NzRjOWYxZGI4OWU=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
+https://sportbox.ws/lba/ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=/g3/turbein2sport.m3u8?token=ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=&id=NjBiYmE4MmM2ZTU2ZDc3MDFmMjBhZDRmNGEwYTQwNzM=&vip=1579787938&dip=ZTU1YjJjMjdhYWM4YmZjNjcxYTc0YTY4ZDdkNmYwNGQ=&pip=MDU3OTk5MzZmNzU1OGUxN2ZlYzE0NzAxZmVjOTZiYjU=&hip=Yjc2ZTM0OGMwMDA2YzQwNjI4ZTUxOGEzMTBmY2M2Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 2 SD
 https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein2sport.m3u8?token=YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=&id=Zjg1MTgyMDE5MTI4YTM0NjQ1NTA5N2IwZjgzOGExZTI=&vip=1573408038&dip=YWE3ZWIyNDc4NmY5MmNhNDUyMjY0NzRjOWYxZGI4OWU=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 2
 https://sportbar.biz/lba/YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=/g3/turbein2sport.m3u8?token=YmQwYjFhYjA4ZjlkNDMzZGNhNTZiOTdkY2ZkNTVkYTI=&id=Zjg1MTgyMDE5MTI4YTM0NjQ1NTA5N2IwZjgzOGExZTI=&vip=1573408038&dip=YWE3ZWIyNDc4NmY5MmNhNDUyMjY0NzRjOWYxZGI4OWU=&pip=95.223.117.140&hip=ZGNhMjZhMDlkMTI2YjlmYTg0ZmQ4NTU5Y2EzOGM0Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 3 HD
-https://mmm.sportbox.ws/lba/MzRkYjI1ZjlmNTJhY2YyMDIwOGE3NDg0NWJkMzIwZWM=/g2/bein3turkey.m3u8?token=MzRkYjI1ZjlmNTJhY2YyMDIwOGE3NDg0NWJkMzIwZWM=&id=NzUyODczMjZiYTU2OTU5YzEyZmRhZjQ2Y2U1ZTdiZTg=&vip=1577459987&dip=MjkwYzA2ZWViNTVjNGY2ZTcyYTNiOTZmODlmZTY3MGU=&pip=109.91.34.76&hip=NWM3NGM3OTU3YzQzNTVhZTg5MzE3NjE4YzcxODljZDQ=
+https://sportbox.ws/lba/ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=/g2/bein3turkey.m3u8?token=ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=&id=NjBiYmE4MmM2ZTU2ZDc3MDFmMjBhZDRmNGEwYTQwNzM=&vip=1579787942&dip=MThlYmNlMGZiNzhjNjlmYWJhNGM2YmUxZDFlZGU4MmE=&pip=MDU3OTk5MzZmNzU1OGUxN2ZlYzE0NzAxZmVjOTZiYjU=&hip=Yjc2ZTM0OGMwMDA2YzQwNjI4ZTUxOGEzMTBmY2M2Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 3
 https://ul.cdn946.net:8443/hls/tirns859n3mcx9.m3u8?s=IuxUEPmUjbNQC_R-I4m4zQ&e=1573716792
 #EXTINF:-1,TR: BEIN SPORTS 4 HD
@@ -148,27 +154,27 @@ http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/384
 #EXTINF:-1,TR: SMART SPOR 1
 http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/7486
 #EXTINF:-1,TR: S SPOR HD
-https://ul.cdn946.net:8443/hls/ig2vurj4tm.m3u8?s=A46bbpV5QI_CorDKpo-iRg&e=1577341834
+https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=1573716567
 #EXTINF:-1,TR: S SPOR
-https://ul.cdn946.net:8443/hls/ig2vurj4tm.m3u8?s=A46bbpV5QI_CorDKpo-iRg&e=1577341834
+https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=1573716567
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★DEUTSCHLAND★ █ ▇ ▆ ▅ ▄.
 http://live.eurovipserver.com:1453/Halil/Akdogan/118689
 #EXTINF:-1,DE: DAS ERSTE
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master_3744.m3u8
 #EXTINF:-1,DE: ARD
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master_3744.m3u8
 #EXTINF:-1,DE: ZDF HD
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/ec5c90c57223874232064f8344a09cb5/5/5.m3u8
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/d5816a34295a1ca0decb1b56b697de53/5/5.m3u8
 #EXTINF:-1,DE: ZDF 
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/ec5c90c57223874232064f8344a09cb5/5/5.m3u8
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/d5816a34295a1ca0decb1b56b697de53/5/5.m3u8
 #EXTINF:-1,DE: ZDF INFO HD
 https://zdfhls17-i.akamaihd.net/hls/live/744750-b/de/3/3.m3u8
 #EXTINF:-1,DE: ZDF INFO
 https://zdfhls17-i.akamaihd.net/hls/live/744750-b/de/3/3.m3u8
 #EXTINF:-1,DE: ZDF NEO HD
-https://zdf-hls-02.akamaized.net/hls/live/2002461/de/3f34e1738d67703b67f7aa9c17bb0a46/5/5.m3u8
+https://zdf-hls-02.akamaized.net/hls/live/2002461/de/a2d062bd57fe2bcc886bd8faf6a8ad0e/5/5.m3u8
 #EXTINF:-1,DE: ZDF NEO
-https://zdf-hls-02.akamaized.net/hls/live/2002461/de/3f34e1738d67703b67f7aa9c17bb0a46/5/5.m3u8
+https://zdf-hls-02.akamaized.net/hls/live/2002461/de/a2d062bd57fe2bcc886bd8faf6a8ad0e/5/5.m3u8
 #EXTINF:-1,DE: RTL HD
 https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: RTL
@@ -194,7 +200,7 @@ https://wer1.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL EINS 
 https://wer1.wertvlive.com/w5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL 1 DOKU
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2709.m3u8
+https://wer11.wertvlive.com/w8/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1 HD
 https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1
@@ -212,19 +218,19 @@ https://wer1.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: DMAX
 https://wer1.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: Nat Geo Wild HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/543.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17265
 #EXTINF:-1,DE: NAT GEOGRAPHIC
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/743.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17264
 #EXTINF:-1,DE: Discovery HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/539.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17262
 #EXTINF:-1,DE: Animal Planet
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/538.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17266
 #EXTINF:-1,|DE| SKY CINEMA ACTION HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/747.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17277
 #EXTINF:-1,|DE| SKY CINEMA COMEDY HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/708.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17278
 #EXTINF:-1,|DE| SKY CINEMA +24 HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/477.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17272
 #EXTINF:-1,|DE| SKY CINEMA HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/745.m3u8
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17271
 
