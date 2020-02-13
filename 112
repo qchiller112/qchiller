@@ -20,9 +20,9 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF: -1,TR: SHOW TURK
 https://mn-nl.mncdn.com/blutv_showturk/showturk_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: ATV HD
-https://live.canlitvlived.com/live/215/index.m3u8
+https://streams.livetv.az/turk/atv_turk_sd/chunks.m3u8
 #EXTINF:-1,TR: ATV Avrupa
-https://live.canlitvlived.com/live/215/index.m3u8
+https://streams.livetv.az/turk/atv_turk_sd/chunks.m3u8
 #EXTINF:-1,TR: TV 8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: TV8
