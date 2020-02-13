@@ -20,9 +20,9 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF: -1,TR: SHOW TURK
 https://mn-nl.mncdn.com/blutv_showturk/showturk_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: ATV HD
-https://cdnlive.blutv.com/blutv_atv/atv_hd.smil/chunklist_b3128000.m3u8
+https://live.canlitvlived.com/live/215/index.m3u8
 #EXTINF:-1,TR: ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=RGFeV666sFIgQdj03DA5Dg&e=1579843619&SessionID=1.2.68284411.1579798411&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+https://live.canlitvlived.com/live/215/index.m3u8
 #EXTINF:-1,TR: TV 8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: TV8
@@ -156,9 +156,9 @@ https://ul.cdn946.net:8443/hls/7gtyi7i.m3u8?s=-qSW3xb1LgVpxCXkSdGX8Q&e=157371656
 #EXTINF:-1,▄ ▅ ▆ ▇ █ ★DEUTSCHLAND★ █ ▇ ▆ ▅ ▄.
 http://live.eurovipserver.com:1453/Halil/Akdogan/118689
 #EXTINF:-1,DE: DAS ERSTE
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master_3744.m3u8
+https://mcdn.daserste.de/daserste/int/master_608.m3u8
 #EXTINF:-1,DE: ARD
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master_3744.m3u8
+https://mcdn.daserste.de/daserste/int/master_608.m3u8
 #EXTINF:-1,DE: ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/d5816a34295a1ca0decb1b56b697de53/5/5.m3u8
 #EXTINF:-1,DE: ZDF 
@@ -176,9 +176,9 @@ https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: RTL
 https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: PROSIEBEN HD
-https://wer1.wertvlive.com/w1/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PROSIEBEN 
-https://wer1.wertvlive.com/w1/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX HD
 https://wer11.wertvlive.com/w2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX
@@ -210,9 +210,9 @@ https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: N-TV
 https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: DMAX HD
-https://wer1.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/d4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: DMAX
-https://wer1.wertvlive.com/w4/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/d4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: Nat Geo Wild HD
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17265
 #EXTINF:-1,DE: NAT GEOGRAPHIC
@@ -220,7 +220,7 @@ http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17264
 #EXTINF:-1,DE: Discovery HD
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17262
 #EXTINF:-1,DE: Animal Planet
-http://163.172.24.27:25461/ania/ania/23681?token=ShdRVxJZRlwUUANRAVYBAFVRAgwCVg0AAA1TB1RWBAxQBAAAAldUVwdGHRYRRBdWB1prUQISDwVSAwpQGhBESlRHZl8FE15EBFcDA1QGRx9EQ11VAxIPBlQNAlEAAQIPBhkbRghVRlwUVQUMVQNHH0RSTEwDQltWDWpWBEBbUlwTD1dDDV1IRFkKblAHXQRdAhUOGlYSGRUIRkJDDFxEVV0ZG1QIRRYHQgETDkACUwVXFRgaBV9AWRVHS0MMEHV8ExkbUxlFAQhFDV5aQApHRxUVGBoPQ2pFBEZGE1NTXFxDFwMUURNIRFsFSWsBXwtdA1RAUQleRhVbFwNDGhBcVl9cTVkTbhQPUkYLFlAFVQtESg==
+http://canlitv.tsvipsmart.eu:8000/mahmutdeniz/250920163837/2890
 #EXTINF:-1,|DE| SKY CINEMA ACTION HD
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17277
 #EXTINF:-1,|DE| SKY CINEMA COMEDY HD
