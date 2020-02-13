@@ -176,9 +176,9 @@ https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: RTL
 https://wer2.wertvlive.com/hls/q1.m3u8
 #EXTINF:-1,DE: PROSIEBEN HD
-https://wer1.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3
+http://canlitv.tsvipsmart.eu:8000/mahmutdeniz/250920163837/4049
 #EXTINF:-1,DE: PROSIEBEN 
-https://wer1.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3
+http://canlitv.tsvipsmart.eu:8000/mahmutdeniz/250920163837/4049
 #EXTINF:-1,DE: PRO 7 MAXX HD
 https://wer11.wertvlive.com/w2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX
