@@ -102,7 +102,7 @@ http://live.eurovipserver.com:1453/Halil/Akdogan/2153
 #EXTINF:-1,TR | DISCOVERY CHANNEL
 http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3734
 #EXTINF:-1,TR: BEIN SPORTS 1 HD
-https://cstream5.com/hls/beinsports1_tr_si.m3u8
+https://ul.cdn946.net:8443/hls/hmuvt6.m3u8?s=707d1Mv2G51Px8aTzlC_vw&e=1582162739
 #EXTINF: -1,TR: BEIN SPORTS 1 SD
 https://sportbox.ws/lba/ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=/g5/beinsport1tur.m3u8?token=ZGM0YzMyNjg4MzMzYTAwYmM2ZWZlZWFjOTk2OWIyZTg=&id=NjBiYmE4MmM2ZTU2ZDc3MDFmMjBhZDRmNGEwYTQwNzM=&vip=1579787249&dip=Y2VmM2MzZDBkZjI3NTE3NjgyY2M5MmEzNmI1OGQyOGU=&pip=MDU3OTk5MzZmNzU1OGUxN2ZlYzE0NzAxZmVjOTZiYjU=&hip=Yjc2ZTM0OGMwMDA2YzQwNjI4ZTUxOGEzMTBmY2M2Nzk=
 #EXTINF:-1,TR: BEIN SPORTS 1 
