@@ -64,13 +64,13 @@ https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: NTV 
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TR: A HABER HD
-https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/chunklist_b3128000.m3u8
+https://ecanlitv1.etvserver.com/live_sd/ahaber/chunks.m3u8?nimblesessionid=61484118&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMTA6Mjg6MzMgUE0maGFzaF92YWx1ZT1MSlBhaXRyaEtiT1E5dnNybzNuZXFRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,TR: A HABER
-https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/chunklist_b3128000.m3u8
+https://ecanlitv1.etvserver.com/live_sd/ahaber/chunks.m3u8?nimblesessionid=61484118&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMTA6Mjg6MzMgUE0maGFzaF92YWx1ZT1MSlBhaXRyaEtiT1E5dnNybzNuZXFRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,TR: TRT HABER HD
-https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_720p_av-b.m3u8?sd=10&rebase=on
+https://tv-trthaber.live.trt.com.tr/master_480.m3u8
 #EXTINF:-1,TR: TRT HABER
-https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_720p_av-b.m3u8?sd=10&rebase=on
+https://tv-trthaber.live.trt.com.tr/master_480.m3u8
 #EXTINF:-1,TR: TRT SPOR HD
 https://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/chunklist_b1096000_sltur.m3u8
 #EXTINF:-1,TR: TRT SPOR
