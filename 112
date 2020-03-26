@@ -172,29 +172,29 @@ https://fr5-0-dash-live.zahs.tv/DE_zdfdoku/manifest.mpd?z32=NVQXQ4TBORST2MJWGAYC
 #EXTINF:-1,DE: ZDF NEO
 https://fr5-0-dash-live.zahs.tv/DE_zdfdoku/manifest.mpd?z32=NVQXQ4TBORST2MJWGAYCM43JM46TIN3EMRQTCZDCMMZDMNZRHAYGEMRTMQ3DEYRXMY3GKOJRGY2GEYZGMNZWSZB5GE2UMNBUGM3DEMCFIE3TEMCCGAWTCRRTHFDDINBYGM4DMMCCIY4TEJTNNFXHEYLUMU6TQMBQ
 #EXTINF:-1,DE: RTL HD
-https://wer2.wertvlive.com/hls/q1.m3u8
+https://wer2.wertvlive.com/hls/r1.m3u8
 #EXTINF:-1,DE: RTL
-https://wer2.wertvlive.com/hls/q1.m3u8
+https://wer2.wertvlive.com/hls/r1.m3u8
 #EXTINF:-1,DE: PROSIEBEN HD
 https://wer1.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PROSIEBEN 
 http://canlitv.tsvipsmart.eu:8000/mahmutdeniz/250920163837/4049
 #EXTINF:-1,DE: PRO 7 MAXX HD
-https://wer11.wertvlive.com/w2/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w22/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX
-https://wer11.wertvlive.com/w2/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/w22/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: RTL 2 HD
-https://wer22.wertvlive.com/hls/q2.m3u8
+https://wer22.wertvlive.com/hls/r2.m3u8
 #EXTINF:-1,DE: RTL 2
-https://wer22.wertvlive.com/hls/q2.m3u8
+https://wer22.wertvlive.com/hls/r2.m3u8
 #EXTINF:-1,DE: SUPER RTL
-https://wer22.wertvlive.com/hls/q5.m3u8
+https://wer22.wertvlive.com/hls/r5.m3u8
 #EXTINF:-1,DE: SUPER RTL
-https://wer22.wertvlive.com/hls/q5.m3u8
+https://wer22.wertvlive.com/hls/r5.m3u8
 #EXTINF:-1,DE: VOX HD
-https://wer222.wertvlive.com/hls/q3.m3u8
+https://wer222.wertvlive.com/hls/r3.m3u8
 #EXTINF:-1,DE: VOX
-https://wer222.wertvlive.com/hls/q3.m3u8
+https://wer222.wertvlive.com/hls/r3.m3u8
 #EXTINF:-1,DE: KABEL EINS HD
 https://wer1.wertvlive.com/d5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL EINS 
@@ -202,9 +202,9 @@ https://wer1.wertvlive.com/d5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL 1 DOKU
 https://wer11.wertvlive.com/w8/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1 HD
-https://wer1.wertvlive.com/d6/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/u6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1
-https://wer1.wertvlive.com/d6/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/u6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: N24 HD
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DE: N24
