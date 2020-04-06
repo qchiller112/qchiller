@@ -160,63 +160,63 @@ https://mcdn.daserste.de/daserste/int/master_608.m3u8
 #EXTINF:-1,DE: ARD
 https://mcdn.daserste.de/daserste/int/master_608.m3u8
 #EXTINF:-1,DE: ZDF HD
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/d5816a34295a1ca0decb1b56b697de53/5/5.m3u8
+https://hdtvler2.etvserver.com/live_sd/dezdf/chunks.m3u8?nimblesessionid=223659372&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozMjoxMSBQTSZoYXNoX3ZhbHVlPW9xekJjYWFGMDBtZ3pvL0xTWER0VEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: ZDF 
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/d5816a34295a1ca0decb1b56b697de53/5/5.m3u8
+https://hdtvler2.etvserver.com/live_sd/dezdf/chunks.m3u8?nimblesessionid=223659372&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozMjoxMSBQTSZoYXNoX3ZhbHVlPW9xekJjYWFGMDBtZ3pvL0xTWER0VEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: ZDF INFO HD
 https://zdfhls17-i.akamaihd.net/hls/live/744750-b/de/3/3.m3u8
 #EXTINF:-1,DE: ZDF INFO
 https://zdfhls17-i.akamaihd.net/hls/live/744750-b/de/3/3.m3u8
 #EXTINF:-1,DE: ZDF NEO HD
-https://fr5-0-dash-live.zahs.tv/DE_zdfdoku/manifest.mpd?z32=NVQXQ4TBORST2MJWGAYCM43JM46TIN3EMRQTCZDCMMZDMNZRHAYGEMRTMQ3DEYRXMY3GKOJRGY2GEYZGMNZWSZB5GE2UMNBUGM3DEMCFIE3TEMCCGAWTCRRTHFDDINBYGM4DMMCCIY4TEJTNNFXHEYLUMU6TQMBQ
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=360&q=low
 #EXTINF:-1,DE: ZDF NEO
-https://fr5-0-dash-live.zahs.tv/DE_zdfdoku/manifest.mpd?z32=NVQXQ4TBORST2MJWGAYCM43JM46TIN3EMRQTCZDCMMZDMNZRHAYGEMRTMQ3DEYRXMY3GKOJRGY2GEYZGMNZWSZB5GE2UMNBUGM3DEMCFIE3TEMCCGAWTCRRTHFDDINBYGM4DMMCCIY4TEJTNNFXHEYLUMU6TQMBQ
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=360&q=low
 #EXTINF:-1,DE: RTL HD
-https://wer2.wertvlive.com/hls/r1.m3u8
+https://hdtvler2.etvserver.com/live_sd/dertl/chunks.m3u8?nimblesessionid=223678817&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozNTo0OCBQTSZoYXNoX3ZhbHVlPUxnVGNtQTI3SEc3QkdVRHpuV1dvT0E9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: RTL
-https://wer2.wertvlive.com/hls/r1.m3u8
+https://hdtvler2.etvserver.com/live_sd/dertl/chunks.m3u8?nimblesessionid=223678817&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozNTo0OCBQTSZoYXNoX3ZhbHVlPUxnVGNtQTI3SEc3QkdVRHpuV1dvT0E9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: PROSIEBEN HD
-https://wer1.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3
+https://hdtvler1.etvserver.com/live_sd/depro7/chunks.m3u8?nimblesessionid=144222274&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozNjo0MiBQTSZoYXNoX3ZhbHVlPXlWTHBLRGpueVM1Ni9GbXY3RHNnWGc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: PROSIEBEN 
 http://canlitv.tsvipsmart.eu:8000/mahmutdeniz/250920163837/4049
 #EXTINF:-1,DE: PRO 7 MAXX HD
-https://wer11.wertvlive.com/w22/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/o2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: PRO 7 MAXX
-https://wer11.wertvlive.com/w22/video.m3u8?token=Rh45MoyoC3
+https://wer11.wertvlive.com/o2/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: RTL 2 HD
-https://wer22.wertvlive.com/hls/r2.m3u8
+https://hdtvler1.etvserver.com/live_sd/dertl2/chunks.m3u8?nimblesessionid=144239507&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozOTo0MiBQTSZoYXNoX3ZhbHVlPXV1cVU2RG5TMUZJcDYzTHJjcS9sUEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: RTL 2
-https://wer22.wertvlive.com/hls/r2.m3u8
+https://hdtvler1.etvserver.com/live_sd/dertl2/chunks.m3u8?nimblesessionid=144239507&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzozOTo0MiBQTSZoYXNoX3ZhbHVlPXV1cVU2RG5TMUZJcDYzTHJjcS9sUEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: SUPER RTL
-https://wer22.wertvlive.com/hls/r5.m3u8
+https://hdtvler1.etvserver.com/live_sd/desuperrtl/chunks.m3u8?nimblesessionid=144246143&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0MDo0MyBQTSZoYXNoX3ZhbHVlPVp3N2U2ckd6RGRJaTM2TkVCem9UTXc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: SUPER RTL
-https://wer22.wertvlive.com/hls/r5.m3u8
+https://hdtvler1.etvserver.com/live_sd/desuperrtl/chunks.m3u8?nimblesessionid=144246143&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0MDo0MyBQTSZoYXNoX3ZhbHVlPVp3N2U2ckd6RGRJaTM2TkVCem9UTXc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: VOX HD
-https://wer222.wertvlive.com/hls/r3.m3u8
+https://hdtvler2.etvserver.com/live_sd/devox/chunks.m3u8?nimblesessionid=223709246&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0MToyMyBQTSZoYXNoX3ZhbHVlPTBvUlNTN3MvZzd0cTUyYytNRmFadVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: VOX
-https://wer222.wertvlive.com/hls/r3.m3u8
+https://hdtvler2.etvserver.com/live_sd/devox/chunks.m3u8?nimblesessionid=223709246&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0MToyMyBQTSZoYXNoX3ZhbHVlPTBvUlNTN3MvZzd0cTUyYytNRmFadVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: KABEL EINS HD
-https://wer1.wertvlive.com/d5/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/y5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL EINS 
-https://wer1.wertvlive.com/d5/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/y5/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: KABEL 1 DOKU
 https://wer11.wertvlive.com/w8/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: SAT 1 HD
-https://wer1.wertvlive.com/u6/video.m3u8?token=Rh45MoyoC3
+https://hdtvler1.etvserver.com/live_sd/desat1/chunks.m3u8?nimblesessionid=144261120&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0Mzo1OSBQTSZoYXNoX3ZhbHVlPTlzS0tKUTdDWDhFODcvK2JmUUkxd2c9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: SAT 1
-https://wer1.wertvlive.com/u6/video.m3u8?token=Rh45MoyoC3
+https://hdtvler1.etvserver.com/live_sd/desat1/chunks.m3u8?nimblesessionid=144261120&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0Mzo1OSBQTSZoYXNoX3ZhbHVlPTlzS0tKUTdDWDhFODcvK2JmUUkxd2c9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: N24 HD
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DE: N24
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
+https://hdtvler1.etvserver.com/live_sd/den24/chunks.m3u8?nimblesessionid=144266400&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0NDo1OSBQTSZoYXNoX3ZhbHVlPWI3VGNnOFFUOEtkZ05OL3l3REZQQnc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,DE: N-TV HD
 https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: N-TV
 https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1,DE: DMAX HD
-https://wer1.wertvlive.com/d4/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/x4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: DMAX
-https://wer1.wertvlive.com/d4/video.m3u8?token=Rh45MoyoC3
+https://wer1.wertvlive.com/x4/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1,DE: Nat Geo Wild HD
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/17265
 #EXTINF:-1,DE: NAT GEOGRAPHIC
