@@ -8,65 +8,65 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:0,TR: EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:0,TR: KANAL D HD
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/kanald.m3u8
 #EXTINF:-1,TR: KANAL D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/kanald.m3u8
 #EXTINF:-1,TR: EURO D
-https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/chunklist_b2096000.m3u8
+https://hdtvler1.etvserver.com/live_sd/eurod/chunks.m3u8?nimblesessionid=144086644&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzoxMDo1MiBQTSZoYXNoX3ZhbHVlPVJhalN0d3ZKbUdGYlpRV2xMbGZMdVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,TR: SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/show.m3u8
 #EXTINF:-1,TR: SHOW TV HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/show.m3u8
 #EXTINF: -1,TR: SHOW TURK
-https://mn-nl.mncdn.com/blutv_showturk/showturk_hd.smil/chunklist_b3128000.m3u8
+https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1586207631&st=683CCwypkS7Z32Mc8yjwGA&tv=1
 #EXTINF:-1,TR: ATV HD
 https://streams.livetv.az/turk/atv_turk_sd/chunks.m3u8
 #EXTINF:-1,TR: ATV Avrupa
 https://streams.livetv.az/turk/atv_turk_sd/chunks.m3u8
 #EXTINF:-1,TR: TV 8 HD
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/tv8.m3u8
 #EXTINF:-1,TR: TV8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/tv8.m3u8
 #EXTINF:0,TR: TV8 INT
 https://e-m1-006-v4.wpstr.tv/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJwdXAiLCJleHAiOjE1NzkxNDcyODAsImlhdCI6MTU3OTEyOTI4MCwidWgiOiIwNWRjMzE4MzdjZGQ5NzNhMzgxMjcxMjUwMWUyYWE5ZiIsImlwIjoiMTA5LjkxLjM0LjEyNSIsImFzIjoidHY4aW50LWwxLXYyLTUtMzdjNDBjLWI3MTE3MSIsInRpZCI6ImY0OTg2MTA2LTdjYTktNDQ1Yi1hZjM4LTU1Nzc5MDFjMDdhNyIsIm1iIjoiNTAwMDAwMDAifQ.Ur-4ydqZ9jh32VF0Zir7pVlEbGzQ-hxyo5HLgj9bMkM/tv8int-l1-v2-5-37c40c-b71171.mpd
 #EXTINF:0,TR: TV 8.5
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/tv85.m3u8
 #EXTINF:-1,TR: BEYAZ TV
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/beyaztv.m3u8
 #EXTINF:-1,TR: BEYAZ TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/beyaztv.m3u8
 #EXTINF:-1,TR: FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/fox.m3u8
 #EXTINF:-1,TR: FOX TV
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/fox.m3u8
 #EXTINF:-1,TR: TRT 1 HD
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b2064000.m3u8
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF: -1,TR: TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b2064000.m3u8
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TR: A2 HD
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/a2.m3u8
 #EXTINF:-1,TR: A2
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/a2.m3u8
 #EXTINF:-1,TR: KANAL 7 HD
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/kanal7.m3u8
 #EXTINF:0,TR: KANAL 7
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/kanal7.m3u8
 #EXTINF:0,TR: CNN TURK HD
-https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://tv.kuzeytv.com/hls/cnnturk.m3u8
 #EXTINF:-1,TR: CNN TURK
-https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://tv.kuzeytv.com/hls/cnnturk.m3u8
 #EXTINF:-1,TR: TGRT HABER HD
 https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 #EXTINF:-1,TR: TGRT HABER 
 https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 #EXTINF:-1,TR: NTV HD
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/ntv.m3u8
 #EXTINF:-1,TR: NTV 
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
+https://tv.kuzeytv.com/hls/ntv.m3u8
 #EXTINF:0,TR: A HABER HD
-https://ecanlitv1.etvserver.com/live_sd/ahaber/chunks.m3u8?nimblesessionid=61484118&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMTA6Mjg6MzMgUE0maGFzaF92YWx1ZT1MSlBhaXRyaEtiT1E5dnNybzNuZXFRPT0mdmFsaWRtaW51dGVzPTEw
+https://hdtvler1.etvserver.com/live_sd/ahaber/chunks.m3u8?nimblesessionid=144163198&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzoyNToyNCBQTSZoYXNoX3ZhbHVlPWZnbENlalY1YmEvYWFYZDMzekRsMVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,TR: A HABER
-https://ecanlitv1.etvserver.com/live_sd/ahaber/chunks.m3u8?nimblesessionid=61484118&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMTA6Mjg6MzMgUE0maGFzaF92YWx1ZT1MSlBhaXRyaEtiT1E5dnNybzNuZXFRPT0mdmFsaWRtaW51dGVzPTEw
+https://hdtvler1.etvserver.com/live_sd/ahaber/chunks.m3u8?nimblesessionid=144163198&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzoyNToyNCBQTSZoYXNoX3ZhbHVlPWZnbENlalY1YmEvYWFYZDMzekRsMVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,TR: TRT HABER HD
 https://tv-trthaber.live.trt.com.tr/master_480.m3u8
 #EXTINF:-1,TR: TRT HABER
@@ -76,15 +76,15 @@ https://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/chunklist_b1096000_slt
 #EXTINF:-1,TR: TRT SPOR
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 #EXTINF:-1,TR: TRT COCUK
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b3128000.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TR: TRT COCUK
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b3128000.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TR: TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TR: A SPOR HD
-https://fullyayin.yasaltv.com/aspor/tracks-v1a1/mono.m3u8?token=68492203437f84a6eed9e05e3858b3b07b6e9cc3-27045af57717d2dcc698a76345bb81fc-1579917703-1579906903
+https://tv.kuzeytv.com/hls/aspor.m3u8
 #EXTINF:0,TR: A Spor
-https://fullyayin.yasaltv.com/aspor/tracks-v1a1/mono.m3u8?token=68492203437f84a6eed9e05e3858b3b07b6e9cc3-27045af57717d2dcc698a76345bb81fc-1579917703-1579906903
+https://tv.kuzeytv.com/hls/aspor.m3u8
 #EXTINF:-1,TR: DMAX HD
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1,TR: DMAX
